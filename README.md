@@ -1,6 +1,14 @@
-### Hi there 👋
+# 个人简介
+- 姓名：杨子丰
+
+- 专业：网络工程
+- 学校：广东工业大学
+- 联系方式：yangzifengavis@126.com
+- 技术方向：前端开发
+- 爱好：摄影、音乐
 
 <!--
+### Hi there 👋
 **Zeronyang/Zeronyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
